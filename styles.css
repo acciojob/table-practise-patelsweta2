@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+
+/*  your css code here. If applicable */
+ table {
+      /* border-collapse: collapse; */
+      width: 100%;
+      background-color: yellow;
+    }
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: center;
+    }
+    caption {
+      font-weight: bold;
+      font-size: 1.2em;
+      margin-bottom: 10px;
+    }
